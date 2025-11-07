@@ -1,4 +1,4 @@
-TP 15 : Structures de données orientées objet
+TP 16 : Patrons de conception
 
 Exercice  1 :
 ![image alt](https://github.com/laouysalma/Tp16Cpp/blob/main/Ex1.png?raw=true)
